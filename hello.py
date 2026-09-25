@@ -1,1 +1,2 @@
-print("Hello Git")
+a = 5
+print(a)
