@@ -1,4 +1,3 @@
-c = 100
-print(type(c))
+name = "Hao"
 
-print("Hao")
+print("Hello,", name)
