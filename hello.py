@@ -1,4 +1,5 @@
-c = 100
-print(type(c))
+name = "Khoa"
+age = 20
 
-print("Hao")
+print(name)
+print(age)
