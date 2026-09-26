@@ -1,2 +1,2 @@
-a = 5
-print(a)
+c = 100
+print(type(c))
