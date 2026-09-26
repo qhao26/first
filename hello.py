@@ -1,5 +1,3 @@
-name = "Huy"
-age = 20
+name = "Hao"
 
-print(name)
-print(age)
+print("Hello,", name)
