@@ -1,2 +1,1 @@
-a = "hao"
-print(a)
+print("hello")
