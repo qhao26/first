@@ -1,3 +1,1 @@
-name = "Hao"
-
-print("Hello,", name)
+print("hello git")
